@@ -23,5 +23,9 @@
     "url": "https://github.com/Nishant2209/Tailwind-Pro/issues"
   },
   "homepage": "https://github.com/Nishant2209/Tailwind-Pro#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
 }
